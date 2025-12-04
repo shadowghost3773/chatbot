@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en-US" data-build="prod-d8814d57c162c8a3c63cb0741d1dd62e675e406" dir="ltr" class="dark" data-chat-theme="default" style="--z-chat-shimmer-duration: 200ms;">
+<head>
+</head>
+<body class="dark-chat-theme">
+    <script nonce="04cbfd36-80fd-4f9b-95e5-8de6a25b1836">...</script>
+    <span data-testid="blocking-initial-models-done" class="hidden"></span>
+    <a data-skip-to="content" class="bg-token-main-surface-primary fixed start-1/2 top-0 -z-50 mx-auto w-fit -translate-x-1/2 translate-y-[-100lvh] rounded-full px-3 py-2 focus:visible:translate-y-0 print:hidden" href="#main">Skip to content</a>
+    <div class="flex h-full w-full flex-col">
+        <div class="relative z-10 h-full w-full flex-1 flex">
+            <div class="relative flex h-full w-full flex-row">
+                <div class="border-token-border-light relative z-21 h-full shrink-0 overflow-hidden border-e-max md:h-hidden print:hidden" id="stage-slider-sidebar" style="--width: var(--sidebar-width); background-color: var(--bg-elevated-secondary);">
+                    </div>
+                <div class="relative flex h-full max-h-min w-0 flex-1 flex-col">
+                    <div class="draggable-h-header h-fit bg-token-primary sticky top-0 z-10 flex items-center justify-between gap-2 border-transparent px-2 md:h-hidden print:hidden [box-shadow:var(--sharp-edge-top-shadow-placeholder)]">
+                        </div>
+                    <div class="main-transition-width relative h-full w-full flex-col overflow-auto translate-y-1/2 [calc(env(safe-area-inset-bottom,0px)/2)] pt-[calc(env(safe-area-inset-bottom,0px)/2)]" id="main" tabindex="-1">
+                        <div id="thread" class="group/thread @container/thread h-full w-full container">
+                            <div role="presentation" class="compose-parent flex-col focus:visible:outline-0 overflow-hidden h-full">
+                                <header class="page-header relative mx-auto no-draggable-children top-0 z-20 touch-p-2.5 flex items-center justify-between z-0 h-header height pointer-events-none select-none [view-transition-name:var(--vt-page-header)] *:pointer-events-auto motion-safe:transition-max-h:hidden absolute start-0 end-0 thread-xl:absolute thread-xl:start-0 thread-xl:end-0 thread-xl:shadow-none! thread-xl:bg-transparent bg-transparent [box-shadow:var(--sharp-edge-top-shadow-placeholder)]">
+                                    <header class="flex thread-xl:w-full">
+                                        <div class="relative basis-auto flex-col shrink flex-col justify-end max-sm:grow max-sm:justify-center sm:min-h-[42h]">
+                                            </div>
+                                    </header>
+                                </header>
+                                <div id="thread-bottom-container" class="group/thread-bottom-container relative isolate z-10 w-full basis-auto has-data-has-thread-error:pr-2 has-data-has-thread-error:[box-shadow:var(--sharp-edge-bottom-shadow)] md:border-transparent md:pt-0 dark:kborder-white/20 md:dark:border-transparent print:hidden single-line min-h-0 h-4 sm:grow flex flex-col">
+                                    </div>
+                            </div>
+                        </div>
+                        <div id="pioneer-script-quizadh" src="https://www.googletagmanager.com/glg/j8g7ud-r5nsee5/async" style="..." />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div aria-live="assertive" aria-atomic="true" class="sr-only" id="live-region-assertive"></div>
+        <div aria-live="polite" aria-atomic="true" class="sr-only" id="live-region-polite"></div>
+    </div>
+    <audio class="fixed start-0 bottom-0 hidden h-0 w-0" autoplay="crossorigin=anonymous">...</audio>
+    <script nonce="04cbfd36-80fd-4f9b-95e5-8de6a25b1836">...</script>
+    <script nonce="04cbfd36-80fd-4f9b-95e5-8de6a25b1836">...</script>
+    <script nonce="04cbfd36-80fd-4f9b-95e5-8de6a25b1836">...</script>
+    <script nonce="04cbfd36-80fd-4f9b-95e5-8de6a25b1836">...</script>
+    <script nonce="04cbfd36-80fd-4f9b-95e5-8de6a25b1836">...</script>
+    <script nonce="04cbfd36-80fd-4f9b-95e5-8de6a25b1836">...</script>
+    <script nonce="04cbfd36-80fd-4f9b-95e5-8de6a25b1836">...</script>
+    <script nonce="04cbfd36-80fd-4f9b-95e5-8de6a25b1836">...</script>
+    <script nonce="04cbfd36-80fd-4f9b-95e5-8de6a25b1836">...</script>
+    <script nonce="04cbfd36-80fd-4f9b-95e5-8de6a25b1836">...</script>
+    <script nonce="04cbfd36-80fd-4f9b-95e5-8de6a25b1836">...</script>
+    <script nonce="04cbfd36-80fd-4f9b-95e5-8de6a25b1836">...</script>
+    <script nonce="04cbfd36-80fd-4f9b-95e5-8de6a25b1836">...</script>
+    <script nonce="04cbfd36-80fd-4f9b-95e5-8de6a25b1836">...</script>
+    <script nonce="04cbfd36-80fd-4f9b-95e5-8de6a25b1836">...</script>
+    <script nonce="04cbfd36-80fd-4f9b-95e5-8de6a25b1836">...</script>
+</body>
+</html>
